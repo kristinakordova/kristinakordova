@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 I am a Computational Biology PhD student at the University of Cambridge at professor Julian Parhill's group.
+
+[![Kristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristinakordova)](https://github.com/kristinakordova/github-readme-stats)
 <!--
 **kristinakordova/kristinakordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
