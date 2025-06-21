@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a Computational Biology PhD student at the University of Cambridge at professor Julian Parhill's group.
 <!--
 **kristinakordova/kristinakordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
