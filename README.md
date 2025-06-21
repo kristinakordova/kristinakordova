@@ -5,6 +5,8 @@ I am a Computational Biology PhD student at the University of Cambridge at profe
 [![Kristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristinakordova)](https://github.com/kristinakordova/github-readme-stats)
 <!--
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinakordova)](https://github.com/kristinakordova/github-readme-stats)
+
 ![Kristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristinakordova&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 **kristinakordova/kristinakordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
