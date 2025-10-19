@@ -1,5 +1,5 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinakordova&hide=jupyternotebooks)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinakordova&hide=jupyternotebook)
 
